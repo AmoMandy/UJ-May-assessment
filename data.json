@@ -1,38 +1,36 @@
 {
-    "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+    "user": {
+        "fullName": "Amanda Gambu",
+        "photo": "pic.jpg",
+        "phone": "082 055 1646",
+        "email": "Amanda.Gambu1@gmail.com" ,
+        "address" : "Soweto"
     },
-    "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+    "Summary": {
+        "Background": "I am highly motivated with Bcom accounting degree in Accounting and Finance. I am able to handle multiple tasks on a daily basis. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills. I have experience working as part of a team and individually. I am flexible in my working hours, being able to work evenings.My interest in economic trends and business operations fuels my ambition to understand and influence financial decision-making processes. This program is not only a stepping stone towards becoming a Certified Public Accountant (CPA) but also aligns perfectly with my long-term goal of making significant contributions to the financial health and success of the organizations I will work with. Balancing academic excellence with community involvement, I am committed to leveraging my skills and knowledge to achieve both personal and professional growth, ensuring I make a positive impact in the field of accounting."
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+    "Education": {
+        "institutionName": " Damelin",
+        "status": "Completed",
+        "description": "Bcom Accounting"
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+    "Language": {
+        "language": "English",
+        "Language": "Zulu"
+    },
+    "skills": {
+        "skills": " Accounting",
+        "skill": "Ability to work under pressure",
+        "skil": "Fast to adapt to new environment",
+        "ski": "Exceptional communication skills"
+    },
+    "WorkHistory": {
+        "History": "Packer 2022-2023 Dermalogica, Johannesburg", 
+        "his": "As a packer I was assigned to a specific area, retrieve  the items needed from the inventory, check that they  are in good condition, wrap them securely, and pack them for shipping. Warehouse packing often requires physical strength and stamina to lift and pack heavy boxes and products."
+    },
+    "References": {
+        "reference": "Paul Fungayi",
+        "detail" : "Manager Email: paulfungayi@yahoo.com",
+        "det" : "Tel/Cell: 0112362349"
+    }
 }

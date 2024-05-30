@@ -1,0 +1,22 @@
+body {
+    background-color: #EFF6EE;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-display: initial;
+    font-size: medium;
+}
+h1 {
+    text-align: left;
+    display: inline;
+}
+.sum {
+  width: 30em;
+  display: inline-block;
+  font-size: medium;
+}
+.awl {
+    float: right;
+    width: 50%;
+    padding: 5px;
+    display: inline;
+    margin-bottom: 20px;
+}

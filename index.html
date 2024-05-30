@@ -1,11 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>CV</title>
+    <link rel="stylesheet"  herf="style.css">
 </head>
+
 <body>
-    <h1>Hello World</h1>
+    <h1>{{user.fullName}}</h1>
+    <ul>
+        <img src="{{user.photo}}" alt="pic.jpg" width="200">
+        <div class="sum">
+            <div>{{user.phone}}</div>
+            <div>{{user.email}}</div>
+            <div>{{user.address}}</div>
+        </div>
+    </ul>
+    <ul>
+        <h1>Summary</h1>
+        <p>{{Summary.Background}}</p>
+    </ul>
+    <ul>
+        <div class="awl">
+            <h1>Education</h1>
+            <div>{{Education.institutionName}}</div>
+            <div>{{Education.status}}</div>
+            <div>{{Education.description}}</div>
+        </div>
+    </ul>
+    <ul>
+        <div>
+            <h1>Skills</h1>
+            <li>{{skills.skills}}</li>
+            <li>{{skills.skill}}</li>
+            <li>{{skills.skil}}</li>
+            <li>{{skills.ski}}</li>
+        </div>
+    </ul>
+    <ul>
+        <div>
+            <h1>Language</h1>
+            <div>{{Language.language}}</div>
+            <div>{{Language.Language}}</div>
+        </div>
+    </ul>
+    <ul>
+        <div class="awl">
+            <h1>Work History</h1>
+            <div>{{WorkHistory.History}}</div>
+            <div>{{WorkHistory.his}}</div>
+        </div>
+    </ul>
+    <ul>
+        <h1>References</h1>
+        <div>{{References.reference}}</div>
+        <div>{{References.detail}}</div>
+        <div>{{References.det}}</div>
+    </ul>
 </body>
+
 </html>
