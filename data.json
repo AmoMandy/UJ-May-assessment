@@ -1,7 +1,7 @@
 {
     "user": {
         "fullName": "Amanda Gambu",
-        "photo": "pic.jpg",
+        "photo": "./pic.jpg",
         "phone": "082 055 1646",
         "email": "Amanda.Gambu1@gmail.com" ,
         "address" : "Soweto"
